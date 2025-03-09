@@ -1,1 +1,3 @@
 code is improved
+
+momentum optimization algorithm
