@@ -113,7 +113,7 @@ Firstly, one starter model is implemented and the path on the recipe is followed
 
 - On the other hand, it can be said that the starter model is fitted well on training set (MAE ~13 is pretty small considering the average target is ~191). However there is variance problem. Because mean absolute error of test data is 116% more than mean absolute error of train data.
 
-3. According to the mentioned recipe, there are 3 options more data, regularization or different NN architectures. On this step regularization will be applied on the model.
+3. According to the mentioned recipe, there are 3 options such that more data, regularization or different NN architectures. On this step regularization will be applied on the model.
 
 ![stats3](https://github.com/user-attachments/assets/a8d71543-b25c-46aa-b27e-9429c310dbcf)
 ![stats4](https://github.com/user-attachments/assets/e108af80-ff9e-4971-bcb6-cb649d42a9cd)
