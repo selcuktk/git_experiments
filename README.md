@@ -116,7 +116,8 @@ Firstly, one starter model is implemented and the path on the recipe is followed
 3. According to the mentioned recipe, there are 3 options more data, regularization or different NN architectures. On this step regularization will be applied on the model.
 
 ![stats3](https://github.com/user-attachments/assets/a8d71543-b25c-46aa-b27e-9429c310dbcf)
-![stats4](https://github.com/user-attachments/assets/a9c5899b-f003-4b17-ae3a-c0f9db1c6339)
+![stats4](https://github.com/user-attachments/assets/e108af80-ff9e-4971-bcb6-cb649d42a9cd)
+
 
 After regularization steps, it can be fairly said that high variance situation is fixed, mean squared error value of test is higher compared to train data. It means predictions of train is more stable compared to test. Having higher standard deviation on the errors is normal for a test data compared to training data.
 
