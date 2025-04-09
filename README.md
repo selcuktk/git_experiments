@@ -140,3 +140,7 @@ After regularization steps, it can be fairly said that high variance situation i
     2. MAE Variance (stability/generalization)
     3. Test MSE (for avoiding outliers)
 - Evaluation metric can be a Composite_Score = α * (Test MAE) + β * (Variance %) + γ * (Test MSE / 100) where α=0.6,  β=0.3, γ=0.1
+- Following graph represents composite scores of the models
+![composite scores](https://github.com/user-attachments/assets/2949a507-84cd-4eb4-a2b1-5dd0fe7548c0)
+
+As can be seen in the graph, model 6 is the best predictor compared to other predictor models. Considering a small value between scores of model 5 and model 6, evaluation metric can be updated as customers needs after more detailed analysis.
