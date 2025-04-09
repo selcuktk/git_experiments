@@ -131,7 +131,7 @@ After regularization steps, it can be fairly said that high variance situation i
 
 6. Model Selection Based on Evaluation Metrics
 
-![image](https://github.com/user-attachments/assets/ed283012-d39b-48f8-8aeb-f7491e17abf1)
+![stats_models](https://github.com/user-attachments/assets/cd24221c-3b10-45e6-9e73-bff387c0d4f9)
 - Final results on the models can be seen above. Now, an evaluation metric is going to improved. 
 - Humans are bad at estimating this numarical data compared to image classification tasks. Therefore try to decide Bayes error considering human level performance is not useful in this project. Also there is no certain way to decide Bayes error such deciding by considering similar projects. So we are going to decide a goal and put that goal into a metric. 
 - There are 3 priorities for the metric (in order of importance): 
