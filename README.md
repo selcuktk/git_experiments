@@ -11,6 +11,13 @@ The dataset used in this project is the **Bike Sharing Demand** dataset, availab
 ### Dataset Link
 [Bike Sharing Demand on Kaggle](https://www.kaggle.com/competitions/bike-sharing-demand)
 
+## Data
+
+The dataset used in this project is the **Diabetes Healthcare Comprehensive Dataset**, available on Kaggle. It contains comprehensive healthcare data related to diabetes, including medical records, demographic information, and lifestyle factors. The dataset is used to predict the risk of diabetes or classify patients based on various factors such as age, BMI, blood pressure, and other medical conditions. This dataset is ideal for classification tasks, and the goal is to build a model that can effectively predict diabetes risk based on the available data.
+
+### Dataset Link
+[Diabetes Healthcare Comprehensive Dataset on Kaggle](https://www.kaggle.com/datasets/deependraverma13/diabetes-healthcare-comprehensive-dataset)
+
 ## Features
 
 - **No Backend/Frontend:** A lightweight solution focused solely on the deep learning model.
